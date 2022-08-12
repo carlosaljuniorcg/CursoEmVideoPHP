@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primeiro exemplo de PHP</title>
+    <link rel="stylesheet" href="../_css/estilo.css">
+    <title>Estruturas de repetição WHILE</title>
+    
 </head>
 <body>
-    <h1>Testando PHP</h1>
+<div>
     <?php
-        echo "<h2>Olá, Carlos!<h2>";
-    ?>
     
+    ?>
+</div>    
 </body>
 </html>
